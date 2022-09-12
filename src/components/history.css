@@ -1,0 +1,52 @@
+/* .table-container {
+    margin: 0 auto;
+    margin-top: 200px;
+    max-width: var(--sm);
+    padding: var(--sm-spacing);
+    background: var(--bg2);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+}
+:root {
+    --white: rgb(255, 255, 255);
+    --bg: rgb(255, 255, 255);
+    --bg2: rgb(255, 255, 255);
+    --text: rgb(33, 33, 33);
+    --primary: rgb(224, 132, 209);
+
+
+    --box-shadow: 0 1px 1px rgba(0, 0, 0, 0.11), 0 2px 2px rgba(0, 0, 0, 0.11),
+        0 4px 4px rgba(0, 0, 0, 0.11), 0 6px 8px rgba(0, 0, 0, 0.11), 0 8px 16px rgba(0, 0, 0, 0.11);
+} */
+
+
+.border-radiusImportant{
+    border-radius: 10px !important;
+    overflow: hidden;
+    
+    /* box-shadow: 0 1px 1px rgba(0, 0, 0, 0.11), 0 2px 2px rgba(0, 0, 0, 0.11),
+        0 4px 4px rgba(0, 0, 0, 0.11), 0 6px 8px rgba(0, 0, 0, 0.11), 0 8px 16px rgba(0, 0, 0, 0.11); */
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+
+.row-back{
+    background-color: #bf53e3;
+    /* border:'none' !important; */
+    /* border: hidden !important; */
+    /* border-bottom: 1px solid purple !important; */
+}
+.row-backs{
+    border-top: hidden !important;
+    border-bottom: hidden !important;
+    /* border-left: hidden !important; */
+    /* border-right: hidden !important; */
+    
+    
+}
+.ntnt:hover{
+    background-color: #e1e1e17b !important;
+    cursor: pointer !important;
+}
+
+
